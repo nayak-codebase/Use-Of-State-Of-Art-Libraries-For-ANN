@@ -8,5 +8,7 @@ ANN algotithms and specific classes used to build index and perform the query to
 a) LSH - key class used faiss.IndexLSH  
 b) Exhaustive search - key class used faiss.IndexFlatL2  
 c) Product quantization - key class used faiss.IndexIVFPQ(quantizer)  
-d) Trees and graphs - key class used annoy.AnnoyIndex  
+d) Trees and graphs - key class used annoy.AnnoyIndex 
+
+Dataset2 :Sift dataset with image formats  
 e) hnsw - key class used faiss.IndexHNSWFlat  
