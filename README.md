@@ -3,7 +3,7 @@ CMPE255-SEC48
 Dataset1 : Movie dataset with Labels  
 
 
-ANN algotithms and specific classes used to build index and perform the query to search data.  
+ANN algorithms and specific classes used to build index and perform the query to search data.  
 
 a) LSH - key class used faiss.IndexLSH  
 b) Exhaustive search - key class used faiss.IndexFlatL2  
